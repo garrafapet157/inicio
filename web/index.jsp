@@ -10,7 +10,7 @@
     </head>
     <body>
         <form action="index.jsp" method="post">//encapsula a info e joga para a index
-            <label>NOME</label><br>
+            <label>cuzap</label><br>
             <input type="text" name="nome"/><br>
             <button type="submit" >PESQUISAR</button>
         </form>
